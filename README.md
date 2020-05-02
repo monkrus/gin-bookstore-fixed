@@ -9,5 +9,5 @@ e.g.
   "author": "Isaac Asimov"
 }
 
-3. Test results by sending a GET request in Postman.
+3. Check results by sending a GET request in Postman.
 
